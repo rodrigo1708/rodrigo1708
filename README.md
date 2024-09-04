@@ -6,13 +6,13 @@ Sou Rodrigo França, geógrafo, especialista em geoprocessamento e técnico em d
 
 Através da minha experiência com geotecnologias e análise de dados geoespeciais, me interessei pelo mundo da Tecnologia da Informação, tendo sempre foco em análise de dados e em aprender habilidades em Sistemas Gerenciadores de Banco de Dados (principalmente PostgreSQL) e, atualmente, na linguagem Python.
 
-Bem-vindo ao meu perfil do GitHub!
+Bem-vindo(a) ao meu perfil do GitHub!
 
 
 ## 🛠 Habilidades
 
-![ArcGisPro](https://img.shields.io/badge/ArcGis%20Pro-white?style=plastic&logo=arcgis&logoColor=blue&logoSize=100&labelColor=white&color=blue)![QGis](https://img.shields.io/badge/QGis-green?style=plastic&logo=qgis&logoColor=green&logoSize=100&labelColor=gray&color=green)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql&logoColor=white&logoSize=100&labelColor=blue&color=white)![Python](https://img.shields.io/badge/Python-yellow?style=plastic&logo=python&logoColor=yellow&logoSize=100&labelColor=blue&color=white)
-![Git](https://img.shields.io/badge/Git-white?style=plastic&logo=git&logoColor=white&labelColor=red)
+[![ArcGis](https://img.shields.io/badge/ArcGis-white?style=plastic&logo=arcgis&logoColor=blue&logoSize=100&labelColor=white&color=blue)](https://www.esri.com/pt-br/home?srsltid=AfmBOoo3MBFmi3y9xoB276Pvb7Rs9pznrJTXupTwzg74ZmTuQPtMs9zp)[![QGis](https://img.shields.io/badge/QGis-green?style=plastic&logo=qgis&logoColor=green&logoSize=100&labelColor=gray&color=green)](https://qgis.org/)[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=plastic&logo=postgresql&logoColor=white&logoSize=100&labelColor=blue&color=white)](https://www.postgresql.org/docs/)[![Python](https://img.shields.io/badge/Python-yellow?style=plastic&logo=python&logoColor=yellow&logoSize=100&labelColor=blue&color=white)](https://www.python.org/)[![Looker](https://img.shields.io/badge/Looker-blue?style=plastic&logo=looker&logoColor=blue&logoSize=100&labelColor=white&color=gray)](https://lookerstudio.google.com/)
+[![Git](https://img.shields.io/badge/Git-white?style=plastic&logo=git&logoColor=white&labelColor=red)](https://git-scm.com/)
 
 ## Estatísticas do GitHub
 
